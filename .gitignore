@@ -1,5 +1,5 @@
 # Ignorar todos los archivos .log
 *.log
-
+borrador.html
 # Ignorar la carpeta temp
 temp/
